@@ -1,5 +1,5 @@
 function init(){
-    //add your javascrip between these two lines of code
+    //add your javascript between these two lines of code
      
     
     
